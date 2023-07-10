@@ -1,7 +1,7 @@
 .container {
     background-color: rgb(239, 239, 239);
     border: 5px solid rgb(190, 190, 190);
-    margin: 5rem auto auto 10rem;
+    margin: 5rem auto auto 5rem;
     width: 750px;
     text-align: left;
 }
