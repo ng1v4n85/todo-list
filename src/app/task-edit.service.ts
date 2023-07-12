@@ -4,8 +4,9 @@ import { Injectable } from '@angular/core';
     providedIn: 'root'
 })
 export class TaskEditService {
-        id: number;
-        taskName: string;
-        taskDesc: string;
-        showDescription: boolean;
-}
+        
+    id: number;
+    taskName: string;
+    taskDesc: string;
+    showDescription: boolean;
+} 
